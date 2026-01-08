@@ -106,8 +106,6 @@ Evaluation metrics used:
 
 Based on metrics and residual diagnostics, **KNN** was found most suitable.
 
-![R1 Predicted vs Actual](outputs/r1_pred_vs_actual.png)  
-![R1 Residuals](outputs/r1_residuals.png)
 
 ---
 
@@ -123,7 +121,6 @@ Observations:
 - Random Forest performance improved significantly due to richer feature space.
 - However, residual diagnostics indicated increased overfitting.
 
-![R2 Predicted vs Actual](outputs/r2_pred_vs_actual.png)
 
 ---
 
@@ -144,7 +141,6 @@ Tree-based methods (Random Forest, Gradient Boosting) showed best performance:
 - JB p-values indicating normal residuals
 - DW ≈ 2 indicating low autocorrelation
 
-![R3 Predicted vs Actual](outputs/r3_pred_vs_actual.png)
 
 ---
 
@@ -156,7 +152,6 @@ Result:
 - Extremely high multicollinearity was observed among several OHLC features.
 - A VIF threshold of 30 was used to flag features.
 
-![VIF Table](outputs/vif_table.png)
 
 ---
 
@@ -171,7 +166,6 @@ Observations:
   - DW closer to 2
   - Indicating reduced overfitting and better statistical behaviour
 
-![R4 Predicted vs Actual](outputs/r4_pred_vs_actual.png)
 
 ---
 
