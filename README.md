@@ -66,10 +66,10 @@ No points were removed as these reflect real market behaviour.
 ASIANPAINT and WIPRO exhibit **bunching of prices** into two regions (pre-drop and post-drop), 
 indicating regime change rather than noise.
 
-![Histograms](outputs/Histograms1.png)
-![Histograms](outputs/Histograms2.png)
-![Histograms](outputs/Histograms3.png)
-![Histograms](outputs/Histograms4.png)
+![Histograms](outputs/Histogram1.png)
+![Histograms](outputs/Histogram2.png)
+![Histograms](outputs/Histogram3.png)
+![Histograms](outputs/Histogram4.png)
 
 ---
 
